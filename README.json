@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T03:12:48Z",
+            "last_commit": "2026-08-16T17:05:26Z",
             "owner": "NVIDIA",
             "repo": "cudf",
             "stars": 9730
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T20:38:04Z",
+            "last_commit": "2026-08-16T02:23:21Z",
             "owner": "apache",
             "repo": "parquet-java",
             "stars": 3073
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T08:04:36Z",
+            "last_commit": "2026-08-16T07:11:22Z",
             "owner": "hardwood-hq",
             "repo": "hardwood",
-            "stars": 356
+            "stars": 357
           }
         },
         {
@@ -143,7 +143,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T20:38:04Z",
+            "last_commit": "2026-08-16T02:23:21Z",
             "owner": "apache",
             "repo": "parquet-java",
             "stars": 3073
@@ -267,10 +267,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T19:58:01Z",
+            "last_commit": "2026-08-16T20:15:43Z",
             "owner": "shshemi",
             "repo": "tabiew",
-            "stars": 3076
+            "stars": 3078
           }
         },
         {
@@ -281,7 +281,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-23T10:38:58Z",
+            "last_commit": "2026-08-16T15:02:48Z",
             "owner": "kaushiksrini",
             "repo": "parqeye",
             "stars": 675
@@ -334,10 +334,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T23:45:51Z",
+            "last_commit": "2026-08-16T16:58:44Z",
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 6938
+            "stars": 6940
           }
         },
         {
@@ -348,7 +348,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T18:06:45Z",
+            "last_commit": "2026-08-16T18:47:08Z",
             "owner": "vortex-data",
             "repo": "vortex",
             "stars": 3140
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:45:45.311Z",
+    "last_updated": "2026-08-16T20:45:38.357Z",
     "original_repository": "severo/awesome-parquet",
     "original_repository_sha": "efb1dd91ab3ad96678199e31031c09cd7543c666",
     "enhanced_repository": "enhansome/enhansome-parquet",
