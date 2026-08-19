@@ -1,330 +1,346 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cudf",
+              "description": "Java bindings for cudf, to be able to process large amounts of data on a GPU.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90506918,
+                "language": "C++",
+                "last_commit": "2026-08-19T12:44:46Z",
+                "owner": "NVIDIA",
+                "repo": "cudf",
+                "stars": 9730
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parquet-java",
+              "description": "A Java implementation of the Parquet format, owned by the Apache Software Foundation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20675636,
+                "language": "Java",
+                "last_commit": "2026-08-18T07:31:43Z",
+                "owner": "apache",
+                "repo": "parquet-java",
+                "stars": 3073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hardwood",
+              "description": "A minimal dependency implementation of Apache Parquet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127944404,
+                "language": "Java",
+                "last_commit": "2026-08-19T12:33:40Z",
+                "owner": "hardwood-hq",
+                "repo": "hardwood",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parquet-carpet",
+              "description": "A Java library for serializing and deserializing Parquet files efficiently using Java records.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605230551,
+                "language": "Java",
+                "last_commit": "2026-08-15T11:41:46Z",
+                "owner": "jerolba",
+                "repo": "parquet-carpet",
+                "stars": 95
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lakeql",
+              "description": "Pure JavaScript duck-compatible SQL query engine for Parquet and Iceberg data in object storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1268325095,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T10:40:22Z",
+                "owner": "earonesty",
+                "repo": "lakeql",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Parquet.Net",
+              "description": "A fully managed Parquet library for .NET.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227571766,
+                "language": "C#",
+                "last_commit": "2026-08-11T12:50:05Z",
+                "owner": "aloneguid",
+                "repo": "parquet-dotnet",
+                "stars": 902
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ParquetSharp",
+              "description": "A .NET wrapper over the C++ Parquet library that integrates with .NET Arrow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957727808,
+                "language": "C#",
+                "last_commit": "2026-08-18T22:38:07Z",
+                "owner": "apache",
+                "repo": "arrow-dotnet",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
+        }
+      ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "cudf",
-          "description": "Java bindings for cudf, to be able to process large amounts of data on a GPU.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T20:45:49Z",
-            "owner": "NVIDIA",
-            "repo": "cudf",
-            "stars": 9729
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "parquet-cli",
+              "description": "Java-based CLI tool for exploring parquet files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20675636,
+                "language": "Java",
+                "last_commit": "2026-08-18T07:31:43Z",
+                "owner": "apache",
+                "repo": "parquet-java",
+                "stars": 3073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ODBC to Parquet",
+              "description": "A command-line tool to query an ODBC data source and write the result into a parquet file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290899681,
+                "language": "Rust",
+                "last_commit": "2026-08-17T18:45:10Z",
+                "owner": "pacman82",
+                "repo": "odbc2parquet",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nail",
+              "description": "Command-line tool for analyzing, transforming, and exploring data files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1001008163,
+                "language": "Rust",
+                "last_commit": "2026-07-12T14:42:03Z",
+                "owner": "Vitruves",
+                "repo": "nail-parquet",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parquet-cli-standalone",
+              "description": "A JAR file for the parquet-cli tool which can be run without any dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 882646458,
+                "language": "Java",
+                "last_commit": "2026-08-17T19:35:56Z",
+                "owner": "marcelmay",
+                "repo": "parquet-cli-standalone",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parquet-grep",
+              "description": "A CLI tool to search for strings in Parquet files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1100185618,
+                "language": "JavaScript",
+                "last_commit": "2025-12-17T00:19:56Z",
+                "owner": "hyparam",
+                "repo": "parquet-grep",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agentsor File Contracts",
+              "description": "Python CLI for checking a Parquet file against an explicit TOML contract.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1313498755,
+                "language": "Python",
+                "last_commit": "2026-08-09T22:13:30Z",
+                "owner": "linkoinsight",
+                "repo": "agentsor-file",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command-line"
         },
         {
-          "node_type": "item",
-          "title": "parquet-java",
-          "description": "A Java implementation of the Parquet format, owned by the Apache Software Foundation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T07:31:43Z",
-            "owner": "apache",
-            "repo": "parquet-java",
-            "stars": 3073
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KoldStore",
+              "description": "PostgreSQL tiered storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1287405294,
+                "language": "Rust",
+                "last_commit": "2026-08-13T18:42:02Z",
+                "owner": "kalamdb",
+                "repo": "koldstore",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nf-parquet",
+              "description": "A Nextflow plugin able to read and write parquet files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645339251,
+                "language": "Groovy",
+                "last_commit": "2026-03-14T10:48:25Z",
+                "owner": "nextflow-io",
+                "repo": "nf-parquet",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Plugins and extensions"
         },
         {
-          "node_type": "item",
-          "title": "hardwood",
-          "description": "A minimal dependency implementation of Apache Parquet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T20:05:20Z",
-            "owner": "hardwood-hq",
-            "repo": "hardwood",
-            "stars": 358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parquet-carpet",
-          "description": "A Java library for serializing and deserializing Parquet files efficiently using Java records.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-15T11:41:46Z",
-            "owner": "jerolba",
-            "repo": "parquet-carpet",
-            "stars": 95
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tabiew",
+              "description": "A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792805133,
+                "language": "Rust",
+                "last_commit": "2026-08-17T20:58:13Z",
+                "owner": "shshemi",
+                "repo": "tabiew",
+                "stars": 3079
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parqeye",
+              "description": "Peek inside Parquet files right from your terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1012739260,
+                "language": "Rust",
+                "last_commit": "2026-08-19T01:43:34Z",
+                "owner": "kaushiksrini",
+                "repo": "parqeye",
+                "stars": 675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datanomy",
+              "description": "A terminal-based tool for visualizing a Parquet file's metadata and structure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1091583778,
+                "language": "Python",
+                "last_commit": "2026-05-21T10:42:18Z",
+                "owner": "raulcd",
+                "repo": "datanomy",
+                "stars": 431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parquetlens",
+              "description": "Parquet previewer with a csvlens-style TUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1139952700,
+                "language": "TypeScript",
+                "last_commit": "2026-02-13T01:27:44Z",
+                "owner": "cfahlgren1",
+                "repo": "parquetlens",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terminal UI"
         }
       ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lakeql",
-          "description": "Pure JavaScript duck-compatible SQL query engine for Parquet and Iceberg data in object storage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T10:40:22Z",
-            "owner": "earonesty",
-            "repo": "lakeql",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hyparquet",
-          "description": "A lightweight, dependency-free, pure JavaScript library for parsing Apache Parquet files.",
-          "children": []
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Parquet.Net",
-          "description": "A fully managed Parquet library for .NET.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-11T12:50:05Z",
-            "owner": "aloneguid",
-            "repo": "parquet-dotnet",
-            "stars": 902
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ParquetSharp",
-          "description": "A .NET wrapper over the C++ Parquet library that integrates with .NET Arrow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T11:58:43Z",
-            "owner": "apache",
-            "repo": "arrow-dotnet",
-            "stars": 35
-          }
-        }
-      ],
-      "title": ".NET"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "parquet-cli",
-          "description": "Java-based CLI tool for exploring parquet files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T07:31:43Z",
-            "owner": "apache",
-            "repo": "parquet-java",
-            "stars": 3073
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ODBC to Parquet",
-          "description": "A command-line tool to query an ODBC data source and write the result into a parquet file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T18:45:10Z",
-            "owner": "pacman82",
-            "repo": "odbc2parquet",
-            "stars": 256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nail",
-          "description": "Command-line tool for analyzing, transforming, and exploring data files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-12T14:42:03Z",
-            "owner": "Vitruves",
-            "repo": "nail-parquet",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parquet-cli-standalone",
-          "description": "A JAR file for the parquet-cli tool which can be run without any dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T19:35:56Z",
-            "owner": "marcelmay",
-            "repo": "parquet-cli-standalone",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parquet-grep",
-          "description": "A CLI tool to search for strings in Parquet files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-17T00:19:56Z",
-            "owner": "hyparam",
-            "repo": "parquet-grep",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Agentsor File Contracts",
-          "description": "Python CLI for checking a Parquet file against an explicit TOML contract.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-08-09T22:13:30Z",
-            "owner": "linkoinsight",
-            "repo": "agentsor-file",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Command-line"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KoldStore",
-          "description": "PostgreSQL tiered storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-13T18:42:02Z",
-            "owner": "kalamdb",
-            "repo": "koldstore",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nf-parquet",
-          "description": "A Nextflow plugin able to read and write parquet files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-03-14T10:48:25Z",
-            "owner": "nextflow-io",
-            "repo": "nf-parquet",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Plugins and extensions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Tabiew",
-          "description": "A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T20:58:13Z",
-            "owner": "shshemi",
-            "repo": "tabiew",
-            "stars": 3078
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parqeye",
-          "description": "Peek inside Parquet files right from your terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T18:12:55Z",
-            "owner": "kaushiksrini",
-            "repo": "parqeye",
-            "stars": 675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Datanomy",
-          "description": "A terminal-based tool for visualizing a Parquet file's metadata and structure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-21T10:42:18Z",
-            "owner": "raulcd",
-            "repo": "datanomy",
-            "stars": 431
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parquetlens",
-          "description": "Parquet previewer with a csvlens-style TUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-13T01:27:44Z",
-            "owner": "cfahlgren1",
-            "repo": "parquetlens",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Terminal UI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -333,11 +349,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511691380,
             "language": "Rust",
-            "last_commit": "2026-08-18T19:16:16Z",
+            "last_commit": "2026-08-19T04:00:15Z",
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 6946
+            "stars": 6948
           }
         },
         {
@@ -347,11 +364,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764020969,
             "language": "Rust",
-            "last_commit": "2026-08-18T20:45:10Z",
+            "last_commit": "2026-08-19T12:40:34Z",
             "owner": "vortex-data",
             "repo": "vortex",
-            "stars": 3142
+            "stars": 3144
           }
         },
         {
@@ -361,11 +379,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 993547667,
             "language": "Rust",
             "last_commit": "2025-11-03T03:34:41Z",
             "owner": "future-file-format",
             "repo": "F3",
-            "stars": 760
+            "stars": 761
           }
         },
         {
@@ -375,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 730832824,
             "language": "C++",
             "last_commit": "2026-08-07T09:09:07Z",
             "owner": "facebookincubator",
@@ -384,16 +404,12 @@
         }
       ],
       "title": "Related formats"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:47:27.274Z",
+    "last_updated": "2026-08-19T12:46:54.327Z",
     "original_repository": "severo/awesome-parquet",
+    "original_repository_id": 1025953856,
     "original_repository_sha": "efb1dd91ab3ad96678199e31031c09cd7543c666",
     "enhanced_repository": "enhansome/enhansome-parquet",
     "enhanced_repository_description": null,
