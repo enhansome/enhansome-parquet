@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 90506918,
                 "language": "C++",
-                "last_commit": "2026-08-21T20:33:25Z",
+                "last_commit": "2026-08-22T19:49:11Z",
                 "owner": "NVIDIA",
                 "repo": "cudf",
                 "stars": 9733
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 1127944404,
                 "language": "Java",
-                "last_commit": "2026-08-21T20:37:24Z",
+                "last_commit": "2026-08-22T18:28:13Z",
                 "owner": "hardwood-hq",
                 "repo": "hardwood",
                 "stars": 360
@@ -118,7 +118,7 @@
                 "archived": false,
                 "id": 957727808,
                 "language": "C#",
-                "last_commit": "2026-08-18T22:38:07Z",
+                "last_commit": "2026-08-22T15:14:27Z",
                 "owner": "apache",
                 "repo": "arrow-dotnet",
                 "stars": 37
@@ -351,10 +351,10 @@
             "archived": false,
             "id": 511691380,
             "language": "Rust",
-            "last_commit": "2026-08-21T17:30:20Z",
+            "last_commit": "2026-08-22T18:56:50Z",
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 6960
+            "stars": 6963
           }
         },
         {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 764020969,
             "language": "Rust",
-            "last_commit": "2026-08-21T20:37:27Z",
+            "last_commit": "2026-08-22T18:04:03Z",
             "owner": "vortex-data",
             "repo": "vortex",
             "stars": 3148
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:47:55.406Z",
+    "last_updated": "2026-08-22T20:46:59.932Z",
     "original_repository": "severo/awesome-parquet",
     "original_repository_id": 1025953856,
     "original_repository_sha": "efb1dd91ab3ad96678199e31031c09cd7543c666",
