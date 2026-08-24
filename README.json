@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Apache Arrow C++",
+              "description": "A library with support for reading and writing Parquet files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51905353,
+                "language": "C++",
+                "last_commit": "2026-08-24T11:33:26Z",
+                "owner": "apache",
+                "repo": "arrow",
+                "stars": 17047
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "parsyl/parquet",
+              "description": "A Go library for reading and writing Parquet files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168235171,
+                "language": "Go",
+                "last_commit": "2025-04-17T14:03:04Z",
+                "owner": "parsyl",
+                "repo": "parquet",
+                "stars": 127
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "cudf",
               "description": "Java bindings for cudf, to be able to process large amounts of data on a GPU.",
               "children": [],
@@ -14,10 +58,10 @@
                 "archived": false,
                 "id": 90506918,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:01:37Z",
+                "last_commit": "2026-08-24T14:14:45Z",
                 "owner": "NVIDIA",
                 "repo": "cudf",
-                "stars": 9733
+                "stars": 9732
               }
             },
             {
@@ -32,7 +76,7 @@
                 "last_commit": "2026-08-23T03:25:52Z",
                 "owner": "apache",
                 "repo": "parquet-java",
-                "stars": 3074
+                "stars": 3075
               }
             },
             {
@@ -44,7 +88,7 @@
                 "archived": false,
                 "id": 1127944404,
                 "language": "Java",
-                "last_commit": "2026-08-23T12:10:40Z",
+                "last_commit": "2026-08-24T10:36:15Z",
                 "owner": "hardwood-hq",
                 "repo": "hardwood",
                 "stars": 360
@@ -81,7 +125,7 @@
                 "archived": false,
                 "id": 1268325095,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T10:40:22Z",
+                "last_commit": "2026-08-24T10:44:38Z",
                 "owner": "earonesty",
                 "repo": "lakeql",
                 "stars": 9
@@ -96,6 +140,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Parquet.jl",
+              "description": "Julia implementation of Parquet columnar file format reader.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49814196,
+                "language": "Julia",
+                "last_commit": "2026-01-25T17:53:44Z",
+                "owner": "JuliaIO",
+                "repo": "Parquet.jl",
+                "stars": 128
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Julia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Parquet.Net",
               "description": "A fully managed Parquet library for .NET.",
               "children": [],
@@ -103,10 +169,10 @@
                 "archived": false,
                 "id": 227571766,
                 "language": "C#",
-                "last_commit": "2026-08-19T15:59:01Z",
+                "last_commit": "2026-08-24T11:32:07Z",
                 "owner": "aloneguid",
                 "repo": "parquet-dotnet",
-                "stars": 903
+                "stars": 904
               }
             },
             {
@@ -118,7 +184,7 @@
                 "archived": false,
                 "id": 957727808,
                 "language": "C#",
-                "last_commit": "2026-08-23T15:27:37Z",
+                "last_commit": "2026-08-24T12:02:20Z",
                 "owner": "apache",
                 "repo": "arrow-dotnet",
                 "stars": 37
@@ -128,6 +194,94 @@
           "description": null,
           "node_type": "group",
           "title": ".NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fastparquet",
+              "description": "A Python implementation of the Parquet columnar file format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45694060,
+                "language": "Python",
+                "last_commit": "2026-06-29T18:31:24Z",
+                "owner": "dask",
+                "repo": "fastparquet",
+                "stars": 902
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Red Parquet",
+              "description": "The Ruby bindings of Apache Parquet, based on GObject Introspection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51905353,
+                "language": "C++",
+                "last_commit": "2026-08-24T11:33:26Z",
+                "owner": "apache",
+                "repo": "arrow",
+                "stars": 17047
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Polars",
+              "description": "A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263727855,
+                "language": "Rust",
+                "last_commit": "2026-08-24T14:19:08Z",
+                "owner": "pola-rs",
+                "repo": "polars",
+                "stars": 39468
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "duckdb-vba",
+              "description": "Excel/VBA bridge for DuckDB, enabling users to read, query, transform, and export Parquet files directly from Excel through a native DLL bridge.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149531132,
+                "language": "VBA",
+                "last_commit": "2026-06-11T22:58:33Z",
+                "owner": "EtienneLenoir",
+                "repo": "duckdb-vba",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VBA"
         }
       ],
       "title": "Libraries"
@@ -149,7 +303,7 @@
                 "last_commit": "2026-08-23T03:25:52Z",
                 "owner": "apache",
                 "repo": "parquet-java",
-                "stars": 3074
+                "stars": 3075
               }
             },
             {
@@ -236,6 +390,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Tad",
+              "description": "An application for viewing and analyzing tabular data sets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71822014,
+                "language": "TypeScript",
+                "last_commit": "2025-03-05T22:46:06Z",
+                "owner": "antonycourtney",
+                "repo": "tad",
+                "stars": 3477
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "KoldStore",
               "description": "PostgreSQL tiered storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.",
               "children": [],
@@ -295,7 +471,7 @@
                 "archived": false,
                 "id": 1012739260,
                 "language": "Rust",
-                "last_commit": "2026-08-20T01:39:20Z",
+                "last_commit": "2026-08-23T21:11:30Z",
                 "owner": "kaushiksrini",
                 "repo": "parqeye",
                 "stars": 676
@@ -335,9 +511,81 @@
           "description": null,
           "node_type": "group",
           "title": "Terminal UI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DataStudio",
+              "description": "Explore and visualize data, entirely in your browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158025160,
+                "language": "TypeScript",
+                "last_commit": "2026-03-12T16:09:20Z",
+                "owner": "dataspren-analytics",
+                "repo": "datastudio",
+                "stars": 78
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web"
         }
       ],
       "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Parquet",
+              "description": "The specification for Apache Parquet and Apache Thrift definitions to read and write Parquet metadata.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20675635,
+                "language": "Thrift",
+                "last_commit": "2026-08-19T11:32:55Z",
+                "owner": "apache",
+                "repo": "parquet-format",
+                "stars": 2549
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "parquet-testing",
+              "description": "Testing Data and Utilities for Apache Parquet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144752087,
+                "language": "Python",
+                "last_commit": "2026-08-21T09:14:03Z",
+                "owner": "apache",
+                "repo": "parquet-testing",
+                "stars": 90
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tests"
+        }
+      ],
+      "title": "Resources"
     },
     {
       "description": null,
@@ -351,10 +599,10 @@
             "archived": false,
             "id": 511691380,
             "language": "Rust",
-            "last_commit": "2026-08-23T17:57:54Z",
+            "last_commit": "2026-08-24T14:36:05Z",
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 6967
+            "stars": 6969
           }
         },
         {
@@ -366,10 +614,10 @@
             "archived": false,
             "id": 764020969,
             "language": "Rust",
-            "last_commit": "2026-08-23T17:13:51Z",
+            "last_commit": "2026-08-24T14:17:29Z",
             "owner": "vortex-data",
             "repo": "vortex",
-            "stars": 3148
+            "stars": 3149
           }
         },
         {
@@ -407,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:46:42.834Z",
+    "last_updated": "2026-08-24T14:46:03.834Z",
     "original_repository": "severo/awesome-parquet",
     "original_repository_id": 1025953856,
     "original_repository_sha": "efb1dd91ab3ad96678199e31031c09cd7543c666",
