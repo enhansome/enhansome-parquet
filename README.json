@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-25T17:16:03Z",
+                "last_commit": "2026-08-26T14:01:00Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17051
+                "stars": 17060
               }
             }
           ],
@@ -58,10 +58,10 @@
                 "archived": false,
                 "id": 90506918,
                 "language": "C++",
-                "last_commit": "2026-08-25T20:46:14Z",
+                "last_commit": "2026-08-26T23:32:52Z",
                 "owner": "NVIDIA",
                 "repo": "cudf",
-                "stars": 9733
+                "stars": 9734
               }
             },
             {
@@ -88,7 +88,7 @@
                 "archived": false,
                 "id": 1127944404,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:50:19Z",
+                "last_commit": "2026-08-26T19:06:11Z",
                 "owner": "hardwood-hq",
                 "repo": "hardwood",
                 "stars": 363
@@ -172,7 +172,7 @@
                 "last_commit": "2026-08-25T16:08:29Z",
                 "owner": "aloneguid",
                 "repo": "parquet-dotnet",
-                "stars": 904
+                "stars": 905
               }
             },
             {
@@ -228,10 +228,10 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-25T17:16:03Z",
+                "last_commit": "2026-08-26T14:01:00Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17051
+                "stars": 17060
               }
             }
           ],
@@ -250,10 +250,10 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-25T14:16:04Z",
+                "last_commit": "2026-08-26T17:14:39Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39484
+                "stars": 39504
               }
             }
           ],
@@ -400,7 +400,7 @@
                 "last_commit": "2025-03-05T22:46:06Z",
                 "owner": "antonycourtney",
                 "repo": "tad",
-                "stars": 3476
+                "stars": 3477
               }
             }
           ],
@@ -456,7 +456,7 @@
                 "archived": false,
                 "id": 792805133,
                 "language": "Rust",
-                "last_commit": "2026-08-25T20:01:43Z",
+                "last_commit": "2026-08-26T13:13:28Z",
                 "owner": "shshemi",
                 "repo": "tabiew",
                 "stars": 3089
@@ -471,7 +471,7 @@
                 "archived": false,
                 "id": 1012739260,
                 "language": "Rust",
-                "last_commit": "2026-08-25T20:09:04Z",
+                "last_commit": "2026-08-26T15:26:18Z",
                 "owner": "kaushiksrini",
                 "repo": "parqeye",
                 "stars": 676
@@ -554,7 +554,7 @@
                 "last_commit": "2026-08-19T11:32:55Z",
                 "owner": "apache",
                 "repo": "parquet-format",
-                "stars": 2552
+                "stars": 2555
               }
             }
           ],
@@ -599,10 +599,10 @@
             "archived": false,
             "id": 511691380,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:14:01Z",
+            "last_commit": "2026-08-26T23:47:42Z",
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 6970
+            "stars": 6973
           }
         },
         {
@@ -614,10 +614,10 @@
             "archived": false,
             "id": 764020969,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:46:41Z",
+            "last_commit": "2026-08-26T23:45:16Z",
             "owner": "vortex-data",
             "repo": "vortex",
-            "stars": 3153
+            "stars": 3158
           }
         },
         {
@@ -632,7 +632,7 @@
             "last_commit": "2025-11-03T03:34:41Z",
             "owner": "future-file-format",
             "repo": "F3",
-            "stars": 763
+            "stars": 765
           }
         },
         {
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:54:14.641Z",
+    "last_updated": "2026-08-26T23:54:46.675Z",
     "original_repository": "severo/awesome-parquet",
     "original_repository_id": 1025953856,
     "original_repository_sha": "efb1dd91ab3ad96678199e31031c09cd7543c666",
