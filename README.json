@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-26T14:01:00Z",
+                "last_commit": "2026-08-27T11:33:16Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17060
+                "stars": 17066
               }
             }
           ],
@@ -58,10 +58,10 @@
                 "archived": false,
                 "id": 90506918,
                 "language": "C++",
-                "last_commit": "2026-08-26T23:32:52Z",
+                "last_commit": "2026-08-27T09:58:06Z",
                 "owner": "NVIDIA",
                 "repo": "cudf",
-                "stars": 9734
+                "stars": 9735
               }
             },
             {
@@ -88,10 +88,10 @@
                 "archived": false,
                 "id": 1127944404,
                 "language": "Java",
-                "last_commit": "2026-08-26T19:06:11Z",
+                "last_commit": "2026-08-27T10:28:51Z",
                 "owner": "hardwood-hq",
                 "repo": "hardwood",
-                "stars": 363
+                "stars": 364
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-24T10:44:38Z",
                 "owner": "earonesty",
                 "repo": "lakeql",
-                "stars": 9
+                "stars": 10
               }
             }
           ],
@@ -209,7 +209,7 @@
                 "last_commit": "2026-06-29T18:31:24Z",
                 "owner": "dask",
                 "repo": "fastparquet",
-                "stars": 902
+                "stars": 903
               }
             }
           ],
@@ -228,10 +228,10 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-26T14:01:00Z",
+                "last_commit": "2026-08-27T11:33:16Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17060
+                "stars": 17066
               }
             }
           ],
@@ -250,10 +250,10 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-26T17:14:39Z",
+                "last_commit": "2026-08-27T11:51:28Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39504
+                "stars": 39512
               }
             }
           ],
@@ -459,7 +459,7 @@
                 "last_commit": "2026-08-26T13:13:28Z",
                 "owner": "shshemi",
                 "repo": "tabiew",
-                "stars": 3089
+                "stars": 3091
               }
             },
             {
@@ -599,10 +599,10 @@
             "archived": false,
             "id": 511691380,
             "language": "Rust",
-            "last_commit": "2026-08-26T23:47:42Z",
+            "last_commit": "2026-08-27T11:23:20Z",
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 6973
+            "stars": 6979
           }
         },
         {
@@ -614,7 +614,7 @@
             "archived": false,
             "id": 764020969,
             "language": "Rust",
-            "last_commit": "2026-08-26T23:45:16Z",
+            "last_commit": "2026-08-27T11:50:27Z",
             "owner": "vortex-data",
             "repo": "vortex",
             "stars": 3158
@@ -632,7 +632,7 @@
             "last_commit": "2025-11-03T03:34:41Z",
             "owner": "future-file-format",
             "repo": "F3",
-            "stars": 765
+            "stars": 764
           }
         },
         {
@@ -647,7 +647,7 @@
             "last_commit": "2026-08-07T09:09:07Z",
             "owner": "facebookincubator",
             "repo": "nimble",
-            "stars": 728
+            "stars": 729
           }
         }
       ],
@@ -655,9 +655,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:54:46.675Z",
-    "original_repository": "severo/awesome-parquet",
-    "original_repository_id": 1025953856,
+    "last_updated": "2026-08-27T11:55:42.978Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1025953856,
+      "language": null,
+      "last_commit": "2026-08-03T14:48:27Z",
+      "owner": "severo",
+      "repo": "awesome-parquet",
+      "stars": 61
+    },
     "original_repository_sha": "efb1dd91ab3ad96678199e31031c09cd7543c666",
     "enhanced_repository": "enhansome/enhansome-parquet",
     "enhanced_repository_description": null,
