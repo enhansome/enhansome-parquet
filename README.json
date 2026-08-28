@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:33:16Z",
+                "last_commit": "2026-08-28T02:34:29Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17066
-              }
+                "stars": 17068
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "parsyl",
                 "repo": "parquet",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -58,11 +60,12 @@
                 "archived": false,
                 "id": 90506918,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:58:06Z",
+                "last_commit": "2026-08-28T03:00:34Z",
                 "owner": "NVIDIA",
                 "repo": "cudf",
-                "stars": 9735
-              }
+                "stars": 9737
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -77,7 +80,8 @@
                 "owner": "apache",
                 "repo": "parquet-java",
                 "stars": 3076
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -88,11 +92,12 @@
                 "archived": false,
                 "id": 1127944404,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:28:51Z",
+                "last_commit": "2026-08-27T19:10:03Z",
                 "owner": "hardwood-hq",
                 "repo": "hardwood",
-                "stars": 364
-              }
+                "stars": 366
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -107,7 +112,8 @@
                 "owner": "jerolba",
                 "repo": "parquet-carpet",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -129,7 +135,8 @@
                 "owner": "earonesty",
                 "repo": "lakeql",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -147,11 +154,12 @@
                 "archived": false,
                 "id": 49814196,
                 "language": "Julia",
-                "last_commit": "2026-01-25T17:53:44Z",
+                "last_commit": "2026-08-28T02:44:29Z",
                 "owner": "JuliaIO",
                 "repo": "Parquet.jl",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -173,7 +181,8 @@
                 "owner": "aloneguid",
                 "repo": "parquet-dotnet",
                 "stars": 905
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -188,7 +197,8 @@
                 "owner": "apache",
                 "repo": "arrow-dotnet",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -209,8 +219,9 @@
                 "last_commit": "2026-06-29T18:31:24Z",
                 "owner": "dask",
                 "repo": "fastparquet",
-                "stars": 903
-              }
+                "stars": 904
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -228,11 +239,12 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:33:16Z",
+                "last_commit": "2026-08-28T02:34:29Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17066
-              }
+                "stars": 17068
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -250,11 +262,12 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:51:28Z",
+                "last_commit": "2026-08-27T14:00:46Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39512
-              }
+                "stars": 39524
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -276,7 +289,8 @@
                 "owner": "EtienneLenoir",
                 "repo": "duckdb-vba",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -304,7 +318,8 @@
                 "owner": "apache",
                 "repo": "parquet-java",
                 "stars": 3076
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -319,7 +334,8 @@
                 "owner": "pacman82",
                 "repo": "odbc2parquet",
                 "stars": 256
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -334,7 +350,8 @@
                 "owner": "Vitruves",
                 "repo": "nail-parquet",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -349,7 +366,8 @@
                 "owner": "marcelmay",
                 "repo": "parquet-cli-standalone",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -364,7 +382,8 @@
                 "owner": "hyparam",
                 "repo": "parquet-grep",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -379,7 +398,8 @@
                 "owner": "linkoinsight",
                 "repo": "agentsor-file",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -401,7 +421,8 @@
                 "owner": "antonycourtney",
                 "repo": "tad",
                 "stars": 3477
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -423,7 +444,8 @@
                 "owner": "kalamdb",
                 "repo": "koldstore",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -438,7 +460,8 @@
                 "owner": "nextflow-io",
                 "repo": "nf-parquet",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -459,8 +482,9 @@
                 "last_commit": "2026-08-26T13:13:28Z",
                 "owner": "shshemi",
                 "repo": "tabiew",
-                "stars": 3091
-              }
+                "stars": 3090
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -475,7 +499,8 @@
                 "owner": "kaushiksrini",
                 "repo": "parqeye",
                 "stars": 676
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -490,7 +515,8 @@
                 "owner": "raulcd",
                 "repo": "datanomy",
                 "stars": 432
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             },
             {
               "node_type": "item",
@@ -505,7 +531,8 @@
                 "owner": "cfahlgren1",
                 "repo": "parquetlens",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -527,7 +554,8 @@
                 "owner": "dataspren-analytics",
                 "repo": "datastudio",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -551,11 +579,12 @@
                 "archived": false,
                 "id": 20675635,
                 "language": "Thrift",
-                "last_commit": "2026-08-19T11:32:55Z",
+                "last_commit": "2026-08-27T17:56:13Z",
                 "owner": "apache",
                 "repo": "parquet-format",
-                "stars": 2555
-              }
+                "stars": 2556
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -577,7 +606,8 @@
                 "owner": "apache",
                 "repo": "parquet-testing",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T04:24:42.306Z"
             }
           ],
           "description": null,
@@ -599,11 +629,12 @@
             "archived": false,
             "id": 511691380,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:23:20Z",
+            "last_commit": "2026-08-28T04:24:39Z",
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 6979
-          }
+            "stars": 6980
+          },
+          "first_seen": "2026-08-28T04:24:42.306Z"
         },
         {
           "node_type": "item",
@@ -614,11 +645,12 @@
             "archived": false,
             "id": 764020969,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:50:27Z",
+            "last_commit": "2026-08-28T04:14:18Z",
             "owner": "vortex-data",
             "repo": "vortex",
             "stars": 3158
-          }
+          },
+          "first_seen": "2026-08-28T04:24:42.306Z"
         },
         {
           "node_type": "item",
@@ -633,7 +665,8 @@
             "owner": "future-file-format",
             "repo": "F3",
             "stars": 764
-          }
+          },
+          "first_seen": "2026-08-28T04:24:42.306Z"
         },
         {
           "node_type": "item",
@@ -648,14 +681,15 @@
             "owner": "facebookincubator",
             "repo": "nimble",
             "stars": 729
-          }
+          },
+          "first_seen": "2026-08-28T04:24:42.306Z"
         }
       ],
       "title": "Related formats"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:42.978Z",
+    "last_updated": "2026-08-28T04:24:42.306Z",
     "original_repository_info": {
       "archived": false,
       "id": 1025953856,
