@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-28T02:34:29Z",
+                "last_commit": "2026-08-28T18:22:59Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17068
+                "stars": 17069
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
             }
@@ -60,10 +60,10 @@
                 "archived": false,
                 "id": 90506918,
                 "language": "C++",
-                "last_commit": "2026-08-28T03:00:34Z",
+                "last_commit": "2026-08-29T02:33:27Z",
                 "owner": "NVIDIA",
                 "repo": "cudf",
-                "stars": 9737
+                "stars": 9739
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
             },
@@ -79,7 +79,7 @@
                 "last_commit": "2026-08-25T19:04:21Z",
                 "owner": "apache",
                 "repo": "parquet-java",
-                "stars": 3076
+                "stars": 3078
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
             },
@@ -92,7 +92,7 @@
                 "archived": false,
                 "id": 1127944404,
                 "language": "Java",
-                "last_commit": "2026-08-27T19:10:03Z",
+                "last_commit": "2026-08-28T18:55:02Z",
                 "owner": "hardwood-hq",
                 "repo": "hardwood",
                 "stars": 366
@@ -154,7 +154,7 @@
                 "archived": false,
                 "id": 49814196,
                 "language": "Julia",
-                "last_commit": "2026-08-28T02:44:29Z",
+                "last_commit": "2026-08-28T17:31:18Z",
                 "owner": "JuliaIO",
                 "repo": "Parquet.jl",
                 "stars": 128
@@ -239,10 +239,10 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-28T02:34:29Z",
+                "last_commit": "2026-08-28T18:22:59Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17068
+                "stars": 17069
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
             }
@@ -262,10 +262,10 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-27T14:00:46Z",
+                "last_commit": "2026-08-28T19:38:14Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39524
+                "stars": 39535
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
             }
@@ -317,7 +317,7 @@
                 "last_commit": "2026-08-25T19:04:21Z",
                 "owner": "apache",
                 "repo": "parquet-java",
-                "stars": 3076
+                "stars": 3078
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
             },
@@ -420,7 +420,7 @@
                 "last_commit": "2025-03-05T22:46:06Z",
                 "owner": "antonycourtney",
                 "repo": "tad",
-                "stars": 3477
+                "stars": 3478
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
             }
@@ -440,7 +440,7 @@
                 "archived": false,
                 "id": 1287405294,
                 "language": "Rust",
-                "last_commit": "2026-08-13T18:42:02Z",
+                "last_commit": "2026-08-28T16:01:47Z",
                 "owner": "kalamdb",
                 "repo": "koldstore",
                 "stars": 5
@@ -629,10 +629,10 @@
             "archived": false,
             "id": 511691380,
             "language": "Rust",
-            "last_commit": "2026-08-28T04:24:39Z",
+            "last_commit": "2026-08-29T02:51:35Z",
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 6980
+            "stars": 6990
           },
           "first_seen": "2026-08-28T04:24:42.306Z"
         },
@@ -645,10 +645,10 @@
             "archived": false,
             "id": 764020969,
             "language": "Rust",
-            "last_commit": "2026-08-28T04:14:18Z",
+            "last_commit": "2026-08-29T02:45:42Z",
             "owner": "vortex-data",
             "repo": "vortex",
-            "stars": 3158
+            "stars": 3161
           },
           "first_seen": "2026-08-28T04:24:42.306Z"
         },
@@ -664,7 +664,7 @@
             "last_commit": "2025-11-03T03:34:41Z",
             "owner": "future-file-format",
             "repo": "F3",
-            "stars": 764
+            "stars": 765
           },
           "first_seen": "2026-08-28T04:24:42.306Z"
         },
@@ -680,7 +680,7 @@
             "last_commit": "2026-08-07T09:09:07Z",
             "owner": "facebookincubator",
             "repo": "nimble",
-            "stars": 729
+            "stars": 730
           },
           "first_seen": "2026-08-28T04:24:42.306Z"
         }
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:24:42.306Z",
+    "last_updated": "2026-08-29T02:52:18.331Z",
     "original_repository_info": {
       "archived": false,
       "id": 1025953856,
