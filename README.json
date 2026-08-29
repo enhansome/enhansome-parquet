@@ -21,7 +21,7 @@
                 "open_issues": 2583,
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17070,
+                "stars": 17072,
                 "topics": [
                   "arrow",
                   "parquet"
@@ -82,8 +82,8 @@
                 "id": 90506918,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T04:55:44Z",
-                "open_issues": 1300,
+                "last_commit": "2026-08-29T19:24:11Z",
+                "open_issues": 1297,
                 "owner": "NVIDIA",
                 "repo": "cudf",
                 "stars": 9739,
@@ -143,7 +143,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:55:02Z",
-                "open_issues": 245,
+                "open_issues": 246,
                 "owner": "hardwood-hq",
                 "repo": "hardwood",
                 "stars": 366,
@@ -359,7 +359,7 @@
                 "open_issues": 2583,
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17070,
+                "stars": 17072,
                 "topics": [
                   "arrow",
                   "parquet"
@@ -386,11 +386,11 @@
                 "id": 263727855,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:38:14Z",
-                "open_issues": 2870,
+                "last_commit": "2026-08-29T14:09:20Z",
+                "open_issues": 2877,
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39536,
+                "stars": 39545,
                 "topics": [
                   "arrow",
                   "dataframe",
@@ -942,11 +942,11 @@
             "id": 511691380,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:51:35Z",
-            "open_issues": 1070,
+            "last_commit": "2026-08-29T21:57:52Z",
+            "open_issues": 1074,
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 6992,
+            "stars": 6998,
             "topics": [
               "apache-arrow",
               "computer-vision",
@@ -980,11 +980,11 @@
             "id": 764020969,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:17:48Z",
-            "open_issues": 378,
+            "last_commit": "2026-08-29T22:22:19Z",
+            "open_issues": 377,
             "owner": "vortex-data",
             "repo": "vortex",
-            "stars": 3161,
+            "stars": 3163,
             "topics": [
               "array",
               "arrow",
@@ -1058,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:27.531Z",
+    "last_updated": "2026-08-29T22:42:48.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for using the Parquet format",
