@@ -45,7 +45,7 @@
 
 ### C++
 
-* [Apache Arrow C++](https://github.com/apache/arrow/tree/main/cpp) ⭐ 17,155 | 🐛 2,545 | 🌐 C++ | 📅 2026-09-24 - A library with support for reading and writing Parquet files.
+* [Apache Arrow C++](https://github.com/apache/arrow/tree/main/cpp) ⭐ 17,158 | 🐛 2,545 | 🌐 C++ | 📅 2026-09-25 - A library with support for reading and writing Parquet files.
 * [DuckDB C++ API](https://duckdb.org/docs/stable/clients/cpp) - Internal DuckDB C++ API.
 * [libcudf](https://docs.rapids.ai/api/cudf/stable/libcudf_docs/) - A GPU-accelerated DataFrame library for tabular data processing.
 
@@ -61,9 +61,9 @@
 
 ### Java
 
-* [cudf](https://github.com/rapidsai/cudf/tree/main/java) ⭐ 9,761 | 🐛 1,360 | 🌐 C++ | 📅 2026-09-24 - Java bindings for cudf, to be able to process large amounts of data on a GPU.
-* [parquet-java](https://github.com/apache/parquet-java) ⭐ 3,083 | 🐛 714 | 🌐 Java | 📅 2026-09-24 - A Java implementation of the Parquet format, owned by the Apache Software Foundation.
-* [hardwood](https://github.com/hardwood-hq/hardwood) ⭐ 379 | 🐛 268 | 🌐 Java | 📅 2026-09-24 - A minimal dependency implementation of Apache Parquet.
+* [cudf](https://github.com/rapidsai/cudf/tree/main/java) ⭐ 9,764 | 🐛 1,361 | 🌐 C++ | 📅 2026-09-25 - Java bindings for cudf, to be able to process large amounts of data on a GPU.
+* [parquet-java](https://github.com/apache/parquet-java) ⭐ 3,083 | 🐛 715 | 🌐 Java | 📅 2026-09-24 - A Java implementation of the Parquet format, owned by the Apache Software Foundation.
+* [hardwood](https://github.com/hardwood-hq/hardwood) ⭐ 380 | 🐛 278 | 🌐 Java | 📅 2026-09-25 - A minimal dependency implementation of Apache Parquet.
 * [parquet-carpet](https://github.com/jerolba/parquet-carpet) ⭐ 95 | 🐛 2 | 🌐 Java | 📅 2026-09-12 - A Java library for serializing and deserializing Parquet files efficiently using Java records.
 * [duckdb-java](https://duckdb.org/docs/stable/clients/java) - DuckDB Java/JDBC API.
 
@@ -82,7 +82,7 @@
 
 ### .NET
 
-* [Parquet.Net](https://github.com/aloneguid/parquet-dotnet) ⭐ 912 | 🐛 39 | 🌐 C# | 📅 2026-08-25 - A fully managed Parquet library for .NET.
+* [Parquet.Net](https://github.com/aloneguid/parquet-dotnet) ⭐ 912 | 🐛 40 | 🌐 C# | 📅 2026-08-25 - A fully managed Parquet library for .NET.
 * [ParquetSharp](https://g-research.github.io/ParquetSharp/) - A .NET wrapper over the C++ Parquet library that integrates with [.NET Arrow](https://github.com/apache/arrow-dotnet) ⭐ 41 | 🐛 41 | 🌐 C# | 📅 2026-09-21.
 
 ### PHP
@@ -91,7 +91,7 @@
 
 ### Python
 
-* [fastparquet](https://github.com/dask/fastparquet/) ⭐ 905 | 🐛 97 | 🌐 Python | 📅 2026-06-29 - A Python implementation of the Parquet columnar file format.
+* [fastparquet](https://github.com/dask/fastparquet/) ⭐ 905 | 🐛 97 | 🌐 Python | 📅 2026-09-25 - A Python implementation of the Parquet columnar file format.
 * [duckdb-python](https://duckdb.org/docs/stable/clients/python/overview) - DuckDB Python client.
 * [pyarrow](https://arrow.apache.org/docs/python/parquet.html) - A Python API for functionality provided by the Arrow C++ libraries, along with tools for Arrow integration and interoperability with Pandas, NumPy, and other software in the Python ecosystem.
 * [pylibcudf](https://docs.rapids.ai/api/cudf/stable/pylibcudf/) - A lightweight Cython interface to libcudf that provides near-zero overhead for GPU-accelerated data processing in Python.
@@ -105,11 +105,11 @@
 
 ### Ruby
 
-* [Red Parquet](https://github.com/apache/arrow/tree/main/ruby/red-parquet) ⭐ 17,155 | 🐛 2,545 | 🌐 C++ | 📅 2026-09-24 - The Ruby bindings of Apache Parquet, based on GObject Introspection.
+* [Red Parquet](https://github.com/apache/arrow/tree/main/ruby/red-parquet) ⭐ 17,158 | 🐛 2,545 | 🌐 C++ | 📅 2026-09-25 - The Ruby bindings of Apache Parquet, based on GObject Introspection.
 
 ### Rust
 
-* [Polars](https://github.com/pola-rs/polars) ⭐ 39,856 | 🐛 2,940 | 🌐 Rust | 📅 2026-09-24 - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
+* [Polars](https://github.com/pola-rs/polars) ⭐ 39,862 | 🐛 2,933 | 🌐 Rust | 📅 2026-09-25 - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
 * [datafusion](https://datafusion.apache.org) - An extensible query engine written in Rust that can read/write Parquet files using SQL or a DataFrame API.
 * [duckdb-rs](https://duckdb.org/docs/stable/clients/rust) - DuckDB Rust client.
 * [parquet](https://arrow.apache.org/rust/parquet/index.html) - The official Native Rust implementation of Apache Parquet, part of the Apache Arrow project.
@@ -126,7 +126,7 @@
 
 ### Command-line
 
-* [parquet-cli](https://github.com/apache/parquet-java/tree/master/parquet-cli) ⭐ 3,083 | 🐛 714 | 🌐 Java | 📅 2026-09-24 - Java-based CLI tool for exploring parquet files.
+* [parquet-cli](https://github.com/apache/parquet-java/tree/master/parquet-cli) ⭐ 3,083 | 🐛 715 | 🌐 Java | 📅 2026-09-24 - Java-based CLI tool for exploring parquet files.
 * [ODBC to Parquet](https://github.com/pacman82/odbc2parquet) ⭐ 256 | 🐛 3 | 🌐 Rust | 📅 2026-09-23 - A command-line tool to query an ODBC data source and write the result into a parquet file.
 * [nail](https://github.com/Vitruves/nail-parquet) ⭐ 97 | 🐛 2 | 🌐 Rust | 📅 2026-07-12 - Command-line tool for analyzing, transforming, and exploring data files.
 * [parquet-cli-standalone](https://github.com/marcelmay/parquet-cli-standalone) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-09-16 - A JAR file for the parquet-cli tool which can be run without any dependencies.
@@ -151,7 +151,7 @@
 
 ### Terminal UI
 
-* [Tabiew](https://github.com/shshemi/tabiew) ⭐ 3,121 | 🐛 17 | 🌐 Rust | 📅 2026-09-24 - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
+* [Tabiew](https://github.com/shshemi/tabiew) ⭐ 3,125 | 🐛 17 | 🌐 Rust | 📅 2026-09-25 - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 * [parqeye](https://github.com/kaushiksrini/parqeye) ⭐ 678 | 🐛 15 | 🌐 Rust | 📅 2026-09-16 - Peek inside Parquet files right from your terminal.
 * [Datanomy](https://github.com/raulcd/datanomy) ⭐ 434 | 🐛 15 | 🌐 Python | 📅 2026-05-21 - A terminal-based tool for visualizing a Parquet file's metadata and structure.
 * [parquetlens](https://github.com/cfahlgren1/parquetlens) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-13 - Parquet previewer with a csvlens-style TUI.
@@ -169,6 +169,7 @@
 * [parquet.to](https://parquet.to) - Convert Parquet to and from CSV, JSON and Excel, with a viewer, SQL editor, chart builder and row editor.
 * [ParquetKit](https://parquetkit.com) - View, query with SQL, and convert Parquet files entirely in the browser, powered by DuckDB-Wasm and hyparquet.
 * [Parquetly](https://www.parquetly.com) - View Parquet files in the browser, with schema, row group and column chunk statistics, SQL via DuckDB-Wasm, and export to CSV or JSON, all without uploading the file.
+* [ParquetView](https://ggyg5gxksw.page.coze.site) - Lightweight, mobile-friendly Parquet viewer and CSV/JSON converter; the file is parsed in the browser and never uploaded.
 * [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
 
 ## Resources
@@ -184,7 +185,7 @@
 
 ### Documentation
 
-* [Parquet](https://github.com/apache/parquet-format) ⭐ 2,592 | 🐛 86 | 🌐 Thrift | 📅 2026-09-23 - The specification for Apache Parquet and Apache Thrift definitions to read and write Parquet metadata.
+* [Parquet](https://github.com/apache/parquet-format) ⭐ 2,593 | 🐛 86 | 🌐 Thrift | 📅 2026-09-23 - The specification for Apache Parquet and Apache Thrift definitions to read and write Parquet metadata.
 * [Apache Parquet Documentation](https://parquet.apache.org/docs/) - The official documentation for Apache Parquet.
 
 ### Educative resources
@@ -204,10 +205,10 @@
 
 ## Related formats
 
-* [Lance](https://github.com/lancedb/lance) ⭐ 7,110 | 🐛 1,282 | 🌐 Rust | 📅 2026-09-24 - Modern columnar data format for ML and LLMs.
-* [Vortex](https://github.com/vortex-data/vortex) ⭐ 3,222 | 🐛 331 | 🌐 Rust | 📅 2026-09-24 - A columnar file format designed for high-performance data processing.
+* [Lance](https://github.com/lancedb/lance) ⭐ 7,112 | 🐛 1,281 | 🌐 Rust | 📅 2026-09-25 - Modern columnar data format for ML and LLMs.
+* [Vortex](https://github.com/vortex-data/vortex) ⭐ 3,224 | 🐛 343 | 🌐 Rust | 📅 2026-09-25 - A columnar file format designed for high-performance data processing.
 * [F3](https://github.com/future-file-format/F3) ⭐ 772 | 🐛 1 | 🌐 Rust | 📅 2025-11-03 - A data file format that is designed with efficiency, interoperability, and extensibility in mind.
-* [Nimble](https://github.com/facebookincubator/nimble) ⭐ 736 | 🐛 151 | 🌐 C++ | 📅 2026-09-21 - File format for storage of large columnar datasets.
+* [Nimble](https://github.com/facebookincubator/nimble) ⭐ 737 | 🐛 151 | 🌐 C++ | 📅 2026-09-21 - File format for storage of large columnar datasets.
 * [GeoParquet](https://geoparquet.org/) - Specification for storing geospatial vector data (point, line, polygon) in Parquet.
 * [Iceberg](https://iceberg.apache.org/) - A high-performance format for huge analytic tables that supports Parquet as one of its storage formats.
 * [ORC](https://orc.apache.org/) - Self-describing type-aware columnar file format designed for Hadoop workloads.
@@ -218,4 +219,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
