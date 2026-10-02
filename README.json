@@ -17,11 +17,11 @@
                 "id": 51905353,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T16:23:26Z",
-                "open_issues": 2477,
+                "last_commit": "2026-10-01T21:44:58Z",
+                "open_issues": 2455,
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17165,
+                "stars": 17166,
                 "topics": [
                   "arrow",
                   "parquet"
@@ -82,11 +82,11 @@
                 "id": 90506918,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T23:57:22Z",
-                "open_issues": 1379,
+                "last_commit": "2026-10-01T23:36:01Z",
+                "open_issues": 1389,
                 "owner": "NVIDIA",
                 "repo": "cudf",
-                "stars": 9771,
+                "stars": 9770,
                 "topics": [
                   "arrow",
                   "cpp",
@@ -142,11 +142,11 @@
                 "id": 1127944404,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T20:55:02Z",
-                "open_issues": 264,
+                "last_commit": "2026-10-01T20:46:21Z",
+                "open_issues": 275,
                 "owner": "hardwood-hq",
                 "repo": "hardwood",
-                "stars": 381,
+                "stars": 382,
                 "topics": [
                   "apache-parquet",
                   "columnar-format",
@@ -331,7 +331,7 @@
                 "open_issues": 97,
                 "owner": "dask",
                 "repo": "fastparquet",
-                "stars": 906,
+                "stars": 908,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
@@ -355,11 +355,11 @@
                 "id": 51905353,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T16:23:26Z",
-                "open_issues": 2477,
+                "last_commit": "2026-10-01T21:44:58Z",
+                "open_issues": 2455,
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17165,
+                "stars": 17166,
                 "topics": [
                   "arrow",
                   "parquet"
@@ -386,11 +386,11 @@
                 "id": 263727855,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-30T18:00:56Z",
-                "open_issues": 2936,
+                "last_commit": "2026-10-01T17:16:06Z",
+                "open_issues": 2935,
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39898,
+                "stars": 39905,
                 "topics": [
                   "arrow",
                   "dataframe",
@@ -499,7 +499,7 @@
                 "id": 290899681,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-28T16:57:06Z",
+                "last_commit": "2026-10-01T17:03:21Z",
                 "open_issues": 3,
                 "owner": "pacman82",
                 "repo": "odbc2parquet",
@@ -647,7 +647,7 @@
                 "open_issues": 163,
                 "owner": "antonycourtney",
                 "repo": "tad",
-                "stars": 3482,
+                "stars": 3483,
                 "topics": [
                   "csv",
                   "data-analysis",
@@ -788,7 +788,7 @@
                 "open_issues": 17,
                 "owner": "shshemi",
                 "repo": "tabiew",
-                "stars": 3127,
+                "stars": 3128,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
@@ -889,6 +889,27 @@
                 ]
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ParquetView",
+              "description": "Lightweight, mobile-friendly Parquet viewer and CSV/JSON converter; the file is parsed in the browser and never uploaded.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "100% private, in-browser Parquet viewer & converter — files never leave your device. No upload, no signup, works on mobile.",
+                "homepage": "https://ggyg5gxksw.page.coze.site",
+                "id": 1386916144,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-25T11:17:30Z",
+                "open_issues": 1,
+                "owner": "contentforge-press",
+                "repo": "parquetview",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-02T00:00:04.404Z"
             }
           ],
           "description": null,
@@ -919,7 +940,7 @@
                 "open_issues": 89,
                 "owner": "apache",
                 "repo": "parquet-format",
-                "stars": 2599,
+                "stars": 2600,
                 "topics": [
                   "apache",
                   "parquet",
@@ -983,11 +1004,11 @@
             "id": 511691380,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T23:49:50Z",
-            "open_issues": 1249,
+            "last_commit": "2026-10-01T22:41:04Z",
+            "open_issues": 1293,
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 7127,
+            "stars": 7131,
             "topics": [
               "apache-arrow",
               "computer-vision",
@@ -1021,11 +1042,11 @@
             "id": 764020969,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T23:47:20Z",
-            "open_issues": 361,
+            "last_commit": "2026-10-01T22:51:55Z",
+            "open_issues": 379,
             "owner": "vortex-data",
             "repo": "vortex",
-            "stars": 3241,
+            "stars": 3242,
             "topics": [
               "array",
               "arrow",
@@ -1099,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:01:12.839Z",
+    "last_updated": "2026-10-02T00:00:04.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for using the Parquet format",
@@ -1107,7 +1128,7 @@
       "id": 1025953856,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-29T06:35:22Z",
+      "last_commit": "2026-10-01T10:04:12Z",
       "open_issues": 4,
       "owner": "severo",
       "repo": "awesome-parquet",
@@ -1117,7 +1138,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "62088dfe3e10fe651cd315f2fdb2a97784bbc0bf",
+    "original_repository_sha": "05f4f7223a2563385c4f183a44eb37b55ce60494",
     "enhanced_repository": "enhansome/enhansome-parquet",
     "enhanced_repository_description": null,
     "title": "Awesome Parquet with stars"
