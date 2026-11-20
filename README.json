@@ -17,11 +17,11 @@
                 "id": 51905353,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T13:32:56Z",
-                "open_issues": 2171,
+                "last_commit": "2026-11-19T16:52:41Z",
+                "open_issues": 2166,
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17313,
+                "stars": 17316,
                 "topics": [
                   "arrow",
                   "parquet"
@@ -82,11 +82,11 @@
                 "id": 90506918,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T01:48:12Z",
-                "open_issues": 1483,
+                "last_commit": "2026-11-20T01:35:39Z",
+                "open_issues": 1456,
                 "owner": "NVIDIA",
                 "repo": "cudf",
-                "stars": 9801,
+                "stars": 9800,
                 "topics": [
                   "arrow",
                   "cpp",
@@ -121,7 +121,7 @@
                 "open_issues": 683,
                 "owner": "apache",
                 "repo": "parquet-java",
-                "stars": 3093,
+                "stars": 3092,
                 "topics": [
                   "apache",
                   "parquet",
@@ -142,11 +142,11 @@
                 "id": 1127944404,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T17:14:41Z",
-                "open_issues": 288,
+                "last_commit": "2026-11-19T23:54:48Z",
+                "open_issues": 286,
                 "owner": "hardwood-hq",
                 "repo": "hardwood",
-                "stars": 424,
+                "stars": 425,
                 "topics": [
                   "apache-parquet",
                   "columnar-format",
@@ -201,11 +201,11 @@
                 "id": 1268325095,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T01:54:29Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-19T23:46:20Z",
+                "open_issues": 0,
                 "owner": "earonesty",
                 "repo": "lakeql",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
@@ -297,7 +297,7 @@
                 "open_issues": 100,
                 "owner": "dask",
                 "repo": "fastparquet",
-                "stars": 911,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
@@ -321,11 +321,11 @@
                 "id": 51905353,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T13:32:56Z",
-                "open_issues": 2171,
+                "last_commit": "2026-11-19T16:52:41Z",
+                "open_issues": 2166,
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17313,
+                "stars": 17316,
                 "topics": [
                   "arrow",
                   "parquet"
@@ -352,11 +352,11 @@
                 "id": 263727855,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-18T21:02:26Z",
-                "open_issues": 2844,
+                "last_commit": "2026-11-19T17:00:44Z",
+                "open_issues": 2843,
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 40379,
+                "stars": 40388,
                 "topics": [
                   "arrow",
                   "dataframe",
@@ -444,7 +444,7 @@
                 "open_issues": 683,
                 "owner": "apache",
                 "repo": "parquet-java",
-                "stars": 3093,
+                "stars": 3092,
                 "topics": [
                   "apache",
                   "parquet",
@@ -465,11 +465,11 @@
                 "id": 872857768,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T01:55:07Z",
-                "open_issues": 203,
+                "last_commit": "2026-11-20T00:20:46Z",
+                "open_issues": 205,
                 "owner": "datazip-inc",
                 "repo": "olake-go",
-                "stars": 1966,
+                "stars": 2034,
                 "topics": [
                   "apache-iceberg",
                   "cdc",
@@ -794,7 +794,7 @@
                 "open_issues": 25,
                 "owner": "shshemi",
                 "repo": "tabiew",
-                "stars": 3192,
+                "stars": 3191,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
@@ -836,7 +836,7 @@
                 "open_issues": 15,
                 "owner": "raulcd",
                 "repo": "datanomy",
-                "stars": 437,
+                "stars": 438,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:42.306Z"
@@ -942,11 +942,11 @@
                 "id": 20675635,
                 "language": "Thrift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T08:55:29Z",
-                "open_issues": 92,
+                "last_commit": "2026-11-19T14:09:55Z",
+                "open_issues": 90,
                 "owner": "apache",
                 "repo": "parquet-format",
-                "stars": 2663,
+                "stars": 2662,
                 "topics": [
                   "apache",
                   "parquet",
@@ -978,7 +978,7 @@
                 "open_issues": 52,
                 "owner": "opengeospatial",
                 "repo": "geoparquet",
-                "stars": 1111,
+                "stars": 1110,
                 "topics": [
                   "apache-parquet",
                   "cloud-native",
@@ -1044,11 +1044,11 @@
             "id": 511691380,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T01:55:12Z",
-            "open_issues": 1144,
+            "last_commit": "2026-11-20T01:49:13Z",
+            "open_issues": 1125,
             "owner": "lance-format",
             "repo": "lance",
-            "stars": 7363,
+            "stars": 7371,
             "topics": [
               "apache-arrow",
               "computer-vision",
@@ -1082,11 +1082,11 @@
             "id": 764020969,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T01:45:04Z",
-            "open_issues": 503,
+            "last_commit": "2026-11-20T01:19:47Z",
+            "open_issues": 523,
             "owner": "vortex-data",
             "repo": "vortex",
-            "stars": 3329,
+            "stars": 3331,
             "topics": [
               "array",
               "arrow",
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:56:01.945Z",
+    "last_updated": "2026-11-20T01:49:58.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for using the Parquet format",
